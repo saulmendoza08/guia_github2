@@ -10,4 +10,19 @@ NOTAS GUIA GITGUB
 
 * git branch: CRUD de las ramas existentes 
 * git checkuot: movernos entre ramas 
+---
+
+Movernos entre ramas
+
+* git checkuot <nombre-ram>
+* git show-brach :muestra las ramas del proyecto y sus commits
+-----------------------CREAR NUEVA RAMA --------------------------
+* git branch experimento -> git checkuot experimento
+
+o atajo :
+* git checkuot -b experimento
+---------------------------------------------------------------
+
+--------- REPOSITORIO REMOTO -------------
+
 
