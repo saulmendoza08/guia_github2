@@ -1,0 +1,13 @@
+* git init
+* git status
+* git log
+* git add directorio
+* git commit -m "mensaje "
+
+
+NOTAS GUIA GITGUB
+
+
+* git branch: CRUD de las ramas existentes 
+* git checkuot: movernos entre ramas 
+
