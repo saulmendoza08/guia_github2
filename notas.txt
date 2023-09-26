@@ -26,3 +26,8 @@ o atajo :
 --------- REPOSITORIO REMOTO -------------
 
 
+git push origin <nombre-de-tu-rama>
+git push origin -u <nombre-de-tu-rama para saltarse el espcificar la rama
+git push
+
+----------------FUSIONAR RAMAS ------------------
